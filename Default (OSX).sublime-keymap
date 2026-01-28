@@ -1,0 +1,12 @@
+[
+	{
+	    "keys": ["super+shift+b"],
+	    "command": "terminus_exec",
+	    "args": {
+	        "shell_cmd": "python3 -m IPython -i \"$file\"",
+	        "working_dir": "$file_path",
+	        "focus": true,
+	        "env": { "PYTHONIOENCODING": "utf-8" }
+	    }
+	}
+]
