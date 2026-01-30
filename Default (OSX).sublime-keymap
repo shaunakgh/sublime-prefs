@@ -14,4 +14,8 @@
         "command": "debugger",
         "args": { "action": "open" }
     },
+    {
+    	"keys": ["super+alt+t"],
+    	"command": "toggle_terminus_panel"
+    }
 ]
