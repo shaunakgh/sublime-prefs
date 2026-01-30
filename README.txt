@@ -2,6 +2,7 @@ keybindings:
 ===========
 super-shift-b: run interactive python with -i
 super-shift-d: run debugger (https://packagecontrol.io/packages/Debugger)
+super-alt-t: toggle terminus
 
 custom programs:
 ===============
