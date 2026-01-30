@@ -8,5 +8,10 @@
 	        "focus": true,
 	        "env": { "PYTHONIOENCODING": "utf-8" }
 	    }
-	}
+	},
+	{
+        "keys": ["super+shift+d"],
+        "command": "debugger",
+        "args": { "action": "open" }
+    },
 ]
